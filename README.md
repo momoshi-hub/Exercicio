@@ -1,7 +1,8 @@
-# Exercicio_1
-Teste para uma vaga de trainee 
+ ##Teste para uma vaga de trainee 
 
-Observe o trecho de código abaixo:
+------------------Exercicio 1 :-------------------------
+
+          Observe o trecho de código abaixo:
 
 int INDICE = 13, SOMA = 0, K = 0;
 
@@ -14,3 +15,5 @@ SOMA = SOMA + K;
 imprimir(SOMA);
 
 Ao final do processamento, qual será o valor da variável SOMA?
+
+--------------------------------------------------------------------
